@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bobysree
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @boby
+- 👀 I’m interested in creating software for inspection
+- 🌱 I’m currently learning apex oracle
+- 💞️ I’m looking to collaborate on software development
+- 📫 How to reach me is platinumglobeconsultants@gmail.com
 
 <!---
 bobysree/bobysree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
